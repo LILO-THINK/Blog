@@ -30,6 +30,7 @@ favicon: 'assets/images/favicon.png'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.lilothink.science" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  linalopes
+disqus: lilothink
 
 include: ["_pages"]
 permalink: /:title/
@@ -45,7 +46,7 @@ authors:
     lina:
       name:           Lina
       site:           https://www.linalopes.info
-      avatar:         assets/images/avatar1.jpg
+      avatar:         assets/images/lina.png
       bio:            "Hi, I am Lina, the author of this blog. I'm interested in radical imagination in science, technology and art"
       email:          lilothink.science@gmail.com
       instagram:      https://www.instagram.com/lilo.think
@@ -59,7 +60,7 @@ defaults:
     values:
       layout: post
       author: lina
-      avatar: /assets/images/avatar1.jpg
+      avatar: /assets/images/lina.png
       
   # all pages
   - scope:
