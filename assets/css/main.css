@@ -155,12 +155,12 @@ sup {
   top: -.5em; }
 
 a {
-  color: #03a87c;
+  color: var(--turquoise);
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects; }
   a:hover {
-    color: #025d45;
+    color: var(--pink);
     text-decoration: underline; }
 
 a:not([href]):not([tabindex]) {
@@ -1378,9 +1378,9 @@ pre {
   .form-control:focus {
     color: #495057;
     background-color: #fff;
-    border-color: #2ffbc5;
+    border-color: var(--pink);
     outline: 0;
-    box-shadow: 0 0 0 0.2rem rgba(3, 168, 124, 0.25); }
+    box-shadow: 0 0 0 0.2rem rgba(234, 125, 255, 0.25); }
   .form-control::-webkit-input-placeholder {
     color: #6c757d;
     opacity: 1; }
@@ -2158,14 +2158,14 @@ fieldset:disabled a.btn {
       box-shadow: 0 0 0 0.2rem rgba(120, 50, 226, 0.5); }
 
 .btn-outline-success {
-  color: #03a87c;
+  color: var(--turquoise);
   background-color: transparent;
   background-image: none;
-  border-color: #03a87c; }
+  border-color: var(--turquoise); }
   .btn-outline-success:hover {
-    color: #fff;
-    background-color: #03a87c;
-    border-color: #03a87c; }
+    color: var(--pink);
+    background-color: var(--deep-purple);
+    border-color: var(--turquoise); }
   .btn-outline-success:focus, .btn-outline-success.focus {
     box-shadow: 0 0 0 0.2rem rgba(3, 168, 124, 0.5); }
   .btn-outline-success.disabled, .btn-outline-success:disabled {
@@ -2174,8 +2174,8 @@ fieldset:disabled a.btn {
   .btn-outline-success:not(:disabled):not(.disabled):active, .btn-outline-success:not(:disabled):not(.disabled).active,
   .show > .btn-outline-success.dropdown-toggle {
     color: #fff;
-    background-color: #03a87c;
-    border-color: #03a87c; }
+    background-color: var(--pink);
+    border-color: var(--turquoise); }
     .btn-outline-success:not(:disabled):not(.disabled):active:focus, .btn-outline-success:not(:disabled):not(.disabled).active:focus,
     .show > .btn-outline-success.dropdown-toggle:focus {
       box-shadow: 0 0 0 0.2rem rgba(3, 168, 124, 0.5); }
@@ -2186,8 +2186,8 @@ fieldset:disabled a.btn {
   background-image: none;
   border-color: #09ebaf; }
   .btn-outline-info:hover {
-    color: #212529;
-    background-color: #09ebaf;
+    color: var(--pink);
+    background-color: var(--deep-purple);
     border-color: #09ebaf; }
   .btn-outline-info:focus, .btn-outline-info.focus {
     box-shadow: 0 0 0 0.2rem rgba(9, 235, 175, 0.5); }
