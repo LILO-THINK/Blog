@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Machine Learning + Stories: Bringing Imagination to Life"
-id: 2021-03-29-ml-+-stories.md
+id: 2021-03-29-ml-plus-stories.md
 categories:
   - ai project
   - creative process
@@ -23,11 +23,12 @@ tags:
   - notebook
   - educational-project
   - google-tools
+  - videomapping
 date: 29/03/2021
 author: lina
 ---
 
-**Have you ever wondered what happens when you teach a machine to build stories from images and then bring those stories to life on paper?** 
+## Have you ever wondered what happens when you teach a machine to build stories from images and then bring those stories to life on paper?
 
 Well, it might just be a blend of machine learning and projection that equals an e-book!
 
