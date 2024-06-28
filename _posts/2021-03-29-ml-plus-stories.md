@@ -39,7 +39,7 @@ But then, an idea struck me: what if the camera could see our drawings and start
 
 To make this happen, the machines need to be fed with imagination, fantasy, and dreams. They need to see a drawing of a hat from different perspectives, imbued with the rich narratives we create.
 
-So, let's dive in! Grab some paper and start drawing. I used plain white paper folded into a booklet and some cutout drawings. The first ingredient in our creative recipe is a webcam to capture the images. Connect it to a computer and process the images using [Teachable Machine](https://teachablemachine.withgoogle.com/). Once the machine has learned from the images, transfer them to [MadMapper Home](https://madmapper.com/) to project them. And voilà! You can trigger different scenes just by showing different drawings.
+So, let's dive in! Xuxu, grab some paper and start drawing. I used plain white paper folded into a booklet and some cutout drawings. The first ingredient in our creative recipe is a webcam to capture the images. Connect it to a computer and process the images using [Teachable Machine](https://teachablemachine.withgoogle.com/). Once the machine has learned from the images, transfer them to [MadMapper Home](https://madmapper.com/) to project them. And voilà! You can trigger different scenes just by showing different drawings.
 
 <video controls muted width="100%" ><source src="https://live.staticflickr.com/video/53817563789/9aa58d469b/1080p.mp4?s=eyJpIjo1MzgxNzU2Mzc4OSwiZSI6MTcxOTU3MDgzNSwicyI6ImE4MjYyZDVmYzJjYjUzNmI1ZGZlNWY1MjUzYTkyZjI5MTRiZTlkYzkiLCJ2IjoxfQ"></video>
 
