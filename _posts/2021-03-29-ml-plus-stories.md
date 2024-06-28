@@ -41,7 +41,7 @@ To make this happen, the machines need to be fed with imagination, fantasy, and 
 
 So, let's dive in! Xuxu, grab some paper and start drawing. I used plain white paper folded into a booklet and some cutout drawings. The first ingredient in our creative recipe is a webcam to capture the images. Connect it to a computer and process the images using [Teachable Machine](https://teachablemachine.withgoogle.com/). Once the machine has learned from the images, transfer them to [MadMapper Home](https://madmapper.com/) to project them. And voilà! You can trigger different scenes just by showing different drawings.
 
-<video controls muted width="100%" ><source src="https://live.staticflickr.com/video/53817563789/9aa58d469b/1080p.mp4?s=eyJpIjo1MzgxNzU2Mzc4OSwiZSI6MTcxOTU3MDgzNSwicyI6ImE4MjYyZDVmYzJjYjUzNmI1ZGZlNWY1MjUzYTkyZjI5MTRiZTlkYzkiLCJ2IjoxfQ"></video>
+<video controls muted width="100%" ><source src="https://live.staticflickr.com/video/53817563789/9aa58d469b/1080p.mp4?s=eyJpIjo1MzgxNzU2Mzc4OSwiZSI6MTcxOTU3Mjk2NCwicyI6ImRiMmE2MmUxNzNhNjBlZWNhMDM5ZjQ0MWQ0YWQ0MDE3YWNmMmMxMmMiLCJ2IjoxfQ"></video>
 
 This video is in Portuguese, but here’s a translation of my delightful conversation with Paulina Cho:
 
