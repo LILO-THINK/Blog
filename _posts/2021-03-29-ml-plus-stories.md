@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Machine Learning + stories or how to put your machine to sleep
+title: "Machine Learning + Stories: Bringing Imagination to Life"
 id: 2021-03-29-ml-+-stories.md
 categories:
   - ai project
-  - creative processes
+  - creative process
   - digital tools
   - prototype
 image: https://live.staticflickr.com/31337/53817260529_bfde2eb1af_o.jpg
@@ -27,33 +27,36 @@ date: 29/03/2021
 author: lina
 ---
 
-**What happens when teaching to a machine images to build a story and then doing the output on paper?** 
+**Have you ever wondered what happens when you teach a machine to build stories from images and then bring those stories to life on paper?** 
 
-Maybe machine learning + projection = e-book
+Well, it might just be a blend of machine learning and projection that equals an e-book!
 
-Diana lives in Switzerland now with her father. One thing we do together during our time apart is WhatsApp video calls. We draw things of our day and tell the history behind and of course, we create new "stories".
+Diana, who now lives in Switzerland with her father, and I have found a way to stay connected despite the distance. During our WhatsApp video calls, we draw things from our day, share the stories behind them, and, of course, create new "stories." It's our little ritual that keeps us close.
 
-What if the camera sees the drawings and starts creating stories by itself? A hat and a frog could be the mad Hatter going to a tea store of a witch to try new flavours of tea, for example.
+But then, an idea struck me: what if the camera could see our drawings and start creating stories by itself? Imagine a hat and a frog transforming into the mad Hatter visiting a witch's tea store to sample new flavors of tea. Sounds whimsical, right?
 
 <img src="https://www.researchgate.net/profile/Amir-Soltani-3/publication/336197560/figure/fig1/AS:809304672194561@1569964678631/My-drawing-was-not-a-picture-of-a-hat-It-was-a-picture-of-a-boa-constrictor-digesting.ppm" />
 
-But in this way, someone need to tell stories to the machines, to feed them with imagination, fantasy, and dreams... In the way that they can see a drawing of a hat also from different perspectives...
+To make this happen, the machines need to be fed with imagination, fantasy, and dreams. They need to see a drawing of a hat from different perspectives, imbued with the rich narratives we create.
 
-So, let's try! Get some paper and drawings. I used white paper folded as a book and some cutoff drawings.  Our first part of the recipe is a webcam to capture the images, a computer for connect the webcam and process the images by using [Teachable Machine](https://teachablemachine.withgoogle.com/).
-After teaching the machine, put the images inside [MadMapper Home](https://madmapper.com/) to send to the projector. And voilá, It's possible to trigger different things just by showing different drawings.
+So, let's dive in! Grab some paper and start drawing. I used plain white paper folded into a booklet and some cutout drawings. The first ingredient in our creative recipe is a webcam to capture the images. Connect it to a computer and process the images using [Teachable Machine](https://teachablemachine.withgoogle.com/). Once the machine has learned from the images, transfer them to [MadMapper Home](https://madmapper.com/) to project them. And voilà! You can trigger different scenes just by showing different drawings.
 
 <video controls muted width="100%" ><source src="https://live.staticflickr.com/video/53817563789/9aa58d469b/1080p.mp4?s=eyJpIjo1MzgxNzU2Mzc4OSwiZSI6MTcxOTU3MDgzNSwicyI6ImE4MjYyZDVmYzJjYjUzNmI1ZGZlNWY1MjUzYTkyZjI5MTRiZTlkYzkiLCJ2IjoxfQ"></video>
 
-This video is in Portuguese, but I'll translate here the amazing dialogue with Paulina Cho:
+This video is in Portuguese, but here’s a translation of my delightful conversation with Paulina Cho:
 
-P: "I'm showing you what you do on a sunny day"
+**Paulina:** "I'm recording what you do on a sunny day." 
 
-L: Lina tells the machine a story to sleep...
+**Lina:** "Lina tells the machine a story to sleep..."
+
+I must admit, I need a better notebook for this. You can hear the processing fan whirring away, and it sounds like it's about to launch into orbit! 😂 Maybe it's time to give the machine a rest. Zzz...
+
+<video controls muted width="100%" ><source src="https://live.staticflickr.com/video/53817472498/5b6255cc9f/1080p.mp4?s=eyJpIjo1MzgxNzQ3MjQ5OCwiZSI6MTcxOTU3MjM5MSwicyI6IjQ5MTJiYTczODc0ZDk2NDEzYTM2ZTZhMzg5YjE5NzkxOThjNmRhZjAiLCJ2IjoxfQ"></video>
+
+Here's a glimpse of the prototype in action and below you can find a gallery with more photos and videos (Go to Flickr to play the videos, just click on top of the image).
 
 
-I need a better notebook to do this. Mine is you can hear the processing (fan) and it's almost going into orbit 😂
-
-
+_Images and videos were made with the incredible help of [[Paulina Cho]]._ 🫀🎥
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200845412@N02/albums/72177720318246176" title="2021 MLplusStories"><img src="https://live.staticflickr.com/65535/53816770756_f607b1ae27.jpg" width="640" height="480" alt="2021 MLplusStories"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-_Images and videos made with the incredible help of [[Paulina Cho]]._ 🫀🎥
+Through this playful exploration, we’re not just teaching machines; we’re weaving together creativity, technology, and a sprinkle of humor to create something magical. It’s all about experimenting without fear, connecting ideas, and most importantly, having fun while doing it. So go ahead, let your imagination run wild, and who knows what stories you'll create!
