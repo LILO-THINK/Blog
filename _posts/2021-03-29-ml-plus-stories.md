@@ -42,13 +42,14 @@ But in this way, someone need to tell stories to the machines, to feed them with
 So, let's try! Get some paper and drawings. I used white paper folded as a book and some cutoff drawings.  Our first part of the recipe is a webcam to capture the images, a computer for connect the webcam and process the images by using [Teachable Machine](https://teachablemachine.withgoogle.com/).
 After teaching the machine, put the images inside [MadMapper Home](https://madmapper.com/) to send to the projector. And voilá, It's possible to trigger different things just by showing different drawings.
 
-<video width="" controls>  
-  <source src="https://live.staticflickr.com/video/53817563789/9aa58d469b/1080p.mp4?s=eyJpIjo1MzgxNzU2Mzc4OSwiZSI6MTcxOTU3MDgzNSwicyI6ImE4MjYyZDVmYzJjYjUzNmI1ZGZlNWY1MjUzYTkyZjI5MTRiZTlkYzkiLCJ2IjoxfQ" type="video/mp4">  
-</video>
+<video controls muted width="100%" ><source src="https://live.staticflickr.com/video/53817563789/9aa58d469b/1080p.mp4?s=eyJpIjo1MzgxNzU2Mzc4OSwiZSI6MTcxOTU3MDgzNSwicyI6ImE4MjYyZDVmYzJjYjUzNmI1ZGZlNWY1MjUzYTkyZjI5MTRiZTlkYzkiLCJ2IjoxfQ"></video>
 
 This video is in Portuguese, but I'll translate here the amazing dialogue with Paulina Cho:
+
 P: "I'm showing you what you do on a sunny day"
+
 L: Lina tells the machine a story to sleep...
+
 
 I need a better notebook to do this. Mine is you can hear the processing (fan) and it's almost going into orbit 😂
 
