@@ -9,7 +9,7 @@ categories:
 image: https://live.staticflickr.com/65535/53821435033_26f191ce79_z.jpg
 share: "true"
 comments: "true"
-filename: Blog/_posts/2024-06-12-Barbara-Probst
+filename: Blog/_posts/2024-06-12-Barbara-Probst.md
 tags:
   - reference
   - photos
@@ -58,7 +58,7 @@ If you want to know more about the artist, here is the website
 
 **The curatorial text from the exhibition**:
 
-"Barbara Probst (*1964) shows numerous works dating from more than 20 years in themed chapters which cannot be clearly separated from one another. Many of the works are being shown for the very first time. The artist completed many of them in Munich and New York, in her studios, on the roofs and on the streets of both those cities. One work was created in the empty exhibition rooms of the Kunstmuseum Luzern.
+"Barbara Probst (1964) shows numerous works dating from more than 20 years in themed chapters which cannot be clearly separated from one another. Many of the works are being shown for the very first time. The artist completed many of them in Munich and New York, in her studios, on the roofs and on the streets of both those cities. One work was created in the empty exhibition rooms of the Kunstmuseum Luzern.
 
 The exhibition title Subjective Evidence points to a fundamental theme: Where are we standing? What do we see? What direction are we coming from? In what direction are we looking? Barbara Probst's approach is simple but effective. The artist gives rise to a certain confusion by presenting up to 13 photographs which were taken at the same time and can only be deciphered when looked at very precisely. To viewers this may seem as if the artist has divided a filmic action into individual images. In fact, her works are multi-perspectival views of one and the same moment in time.
 

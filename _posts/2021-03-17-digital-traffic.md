@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Digital Traffic"
-id: "2021-03-17-digital-traffic.md"
+title: Digital Traffic
+id: 2021-03-17-digital-traffic.md
 categories:
-  - "videomapping"
-image: "https://media.giphy.com/media/8dIATcLRcwjdIlHPIx/giphy.gif"
+  - videomapping
+image: https://media.giphy.com/media/8dIATcLRcwjdIlHPIx/giphy.gif
 share: "true"
 comments: "true"
 filename: Blog/_posts/2021-03-17-digital-traffic.md
 tags: 
-date: "17/03/2021"
+date: 2021-03-17
 author: lina
 ---
 

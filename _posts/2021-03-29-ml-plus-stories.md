@@ -3,7 +3,7 @@ layout: post
 title: "Machine Learning + Stories: Bringing Imagination to Life"
 id: 2021-03-29-ml-plus-stories.md
 categories:
-  - ai project
+  - AI project
   - creative process
   - digital tools
   - prototype
