@@ -7199,10 +7199,10 @@ a.text-warning:hover, a.text-warning:focus {
   color: #cfb400 !important; }
 
 .text-danger {
-  color: #ea2f65 !important; }
+  color: var(--pink) !important; }
 
 a.text-danger:hover, a.text-danger:focus {
-  color: #d1154b !important; }
+  color: var(--turquoise) !important; }
 
 .text-light {
   color: #f8f9fa !important; }
