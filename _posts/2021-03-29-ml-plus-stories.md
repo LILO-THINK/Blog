@@ -53,10 +53,9 @@ Now, let's end with a provocative twist. Imagine a future where machines learn t
 Who else is excited to see what stories our machines can tell? Let's dream together and expand the horizons of our (cyborg?) imaginations.
 
 
----
+# *
 
-
-<video controls muted width="100%" ><source src="https://live.staticflickr.com/video/53817563789/9aa58d469b/1080p.mp4?s=eyJpIjo1MzgxNzU2Mzc4OSwiZSI6MTcxOTU3Mjk2NCwicyI6ImRiMmE2MmUxNzNhNjBlZWNhMDM5ZjQ0MWQ0YWQ0MDE3YWNmMmMxMmMiLCJ2IjoxfQ"></video>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200845412@N02/53817563789/in/album-72177720318246176/" title="IMG_2206.mp4"><img src="https://live.staticflickr.com/31337/53817563789_cca7a7b4d3_k.jpg"  alt="IMG_2206.mp4"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 This video is in Portuguese, but here’s a translation of my delightful conversation with Paulina Cho:
 
@@ -66,7 +65,7 @@ This video is in Portuguese, but here’s a translation of my delightful convers
 
 I must admit, I need a better notebook for this. You can hear the processing fan whirring away, and it sounds like it's about to launch into orbit! 😂 Maybe it's time to give the machine a rest. Zzz...
 
-<video controls muted width="100%" ><source src="https://live.staticflickr.com/video/53817472498/5b6255cc9f/1080p.mp4?s=eyJpIjo1MzgxNzQ3MjQ5OCwiZSI6MTcxOTU3MjM5MSwicyI6IjQ5MTJiYTczODc0ZDk2NDEzYTM2ZTZhMzg5YjE5NzkxOThjNmRhZjAiLCJ2IjoxfQ"></video>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200845412@N02/53817472498/in/album-72177720318246176/" title="IMG_2202.mp4"><img src="https://live.staticflickr.com/31337/53817472498_984642728b_k.jpg" alt="IMG_2202.mp4"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Here's a glimpse of the prototype in action and below you can find a gallery with more photos and videos (Go to Flickr to play the videos, just click on top of the image).
 
