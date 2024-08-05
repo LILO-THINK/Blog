@@ -1,0 +1,63 @@
+---
+layout: default
+---
+<div class="container">
+<h3 class="font-weight-bold spanborder"><span>{{page.title}}</span></h3>
+<div class="row">
+    <div class="col-md-8">
+    {% if page.image %} 
+    <img class="card-img-top mb-5 shadow-lg" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" alt="{{ page.title }}"> 
+    {% endif %} 
+    <div class="page-content">
+        {{ content }}
+
+        <!-- Add list posts -->
+        <div class="main-loop">
+            <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
+            {% assign search_tag = page.searchTag %}
+            {% for post in site.tags[search_tag] %}
+                {% include main-loop-card.html %}
+            {% endfor %}
+        </div>
+
+        <div class="mt-5">
+            <!-- Pagination links -->
+            {% if paginator.total_pages > 1 %}
+            <ul class="pagination"> 
+                {% if paginator.previous_page %}
+                    <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a></li>
+                {% else %}
+                    <li class="page-item disabled"><span class="prev page-link">&laquo;</span></li>
+                {% endif %}
+
+                {% for page in (1..paginator.total_pages) %}
+                    {% if page == paginator.page %}
+                        <li class="page-item disabled"><span class="webjeda page-link">{{ page }}</span></li>
+                    {% elsif page == 1 %}
+                        <li class="page-item"><a class="page-link" href="{{site.baseurl}}/">{{ page }}</a></li>
+                    {% else %}
+                        <li class="page-item"><a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+                    {% endif %}
+                {% endfor %}
+
+                {% if paginator.next_page %}
+                    <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a></li>
+                {% else %}
+                    <li class="page-item disabled"><span class="next page-link">&raquo;</span></li>
+                {% endif %}
+            </ul>
+            {% endif %}      
+        </div>
+
+        <!-- Comments -->
+        {% if page.comments == true %}
+        {% include comments.html %}
+        {% endif %}
+    </div>
+    </div>
+    <div class="col-md-4">
+        {% include sidebar-sticky.html %}
+    </div>
+</div>  
+</div>
+

@@ -1,0 +1,119 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+name: 'Blog LILO.THINK'
+title: BLOG - LILO.THINK
+email: lilothink.science@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.png'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://blog.lilothink.science" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  linalopes
+disqus: lilothink
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-toc
+
+toc:
+  min_level: 2
+  max_level: 6
+  no_toc_section_class: 'no_toc'
+  list_class: 'toc-list'
+  sublist_class: 'toc-sublist'
+  item_class: 'toc-item'
+  permalink_class: 'toc-permalink'
+  permalink_text: '#'
+  heading: 'Table of Contents'
+  mobile_view: true
+  scroll_sync: true
+
+authors:
+    lina:
+      name:           Lina Lopes
+      site:           https://www.linalopes.info
+      avatar:         assets/images/lina.png
+      bio:            "Hi, I'm Lina, a prompt engineer, consultant, and artist. I'm also known as the mother of Diana. My interests lie in the radical imagination of science, technology, and art."
+      email:          lilothink.science@gmail.com
+      instagram:      https://www.instagram.com/lilo.think
+
+    eduardo:
+      name:           Eduardo Padilha
+      site:           https://eduardopadilha.net/
+      avatar:         assets/images/eduardo.png
+      bio:            "I am a PharmD and Clinical Research professional with a focus in Oncology and Hematology. In my free time I'm also an artist in bioart."
+      email:          eduardo.padilha@alumni.usp.br
+      instagram:      https://www.instagram.com/padilhaeduardo
+
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: lina
+      avatar: /assets/images/lina.png
+      toc: true
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
