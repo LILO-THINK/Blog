@@ -6,7 +6,7 @@ categories:
   - art installation
   - bioart
   - speculation
-image: assets/images/gepeto.png
+image: https://live.staticflickr.com/65535/53848256389_6629f84c89_z.jpg
 share: "true"
 comments: "true"
 filename: Blog/_posts/2020-08-07-bioweb-biomaterial-handcraft.md
@@ -15,12 +15,14 @@ tags:
   - bio-things
   - material/bio
   - bioplastic
+  - open-call
 date: 2020-08-07
 author: lina
 ---
-## bioWeb BIOMATERIAL + HANDCRAFT
 
 This prototype was a partnership with [Anais-karenin](https://anaiskarenin.com/) 🫀
+
+## The Concept
 
 "bioWeb" is a practical investigation of biomaterial for the production of a thread for artistic purposes. The idea is to rescue the artist who not only produces the art itself, but investigates the materials and tools to reach its end.
 
@@ -30,9 +32,9 @@ Algae and mushrooms are living things. A living being is an organism that is bor
 
 "bioWeb" starts from living organisms and tries to connect the ancestral knowledge of cultivation and the manufacture by technological machines to build a symbiotic bio-inspired network.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/200845412@N02/albums/72177720318676296" title="2020 bioWeb"><img src="https://live.staticflickr.com/65535/53848256389_6629f84c89_b.jpg" width="1024" height="768" alt="2020 bioWeb"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200845412@N02/albums/72177720318676296" title="2020 bioWeb"><img src="https://live.staticflickr.com/65535/53848336475_49db4704ea_z.jpg" width="1024" height="768" alt="2020 bioWeb"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-### Presentation of Development in Tokyo
+## Presentation of Development in Tokyo
 
 We believe that part of the "bioWeb" research focused on mycelium can grow a lot within Japan. This is because the importance that mushrooms have for Japanese culture is notorious. It probably started with the abundance of his presence in Japan, due to the country's temperate climate and high humidity. Ancient Japanese poems comment on mushrooms being used as an exchange item.
 
@@ -40,7 +42,7 @@ This ancestral relationship allowed Japan to become an expert in mushroom produc
 
 The proximity, in Tokyo, between the great technological centers and the rural surroundings, with areas of cultivation and maintenance of traditions with nature, favors research in practical and conceptual terms. What we want with "bioWeb" is to learn from local producers a little of the ancient techniques of mushroom cultivation to obtain the mycelium necessary for the construction of our filament. And so, being able to connect cultures, practices and poetics, locally and globally.
 
-### Team | FASCINATED BY BIO EXPERIMENTS
+## Team | FASCINATED BY BIO EXPERIMENTS
 
 #### **Lina Lopes**
 **MANAUS, Amazonas, Brazil**
@@ -59,15 +61,4 @@ Anais-Karenin is an artist and researcher, her work discusses the relations with
 She studied PhD in Visual Poetry at PPGAV/USP, and is a Master of Arts from PPGArtes/UERJ, where researched aesthetics and nature in Japan through Shinto philosophy. Researcher of medicinal plants for 9 years, held national and international exhibitions, including a solo exhibition at High Pop Gallery - Tokyo (2019), and also participated in art halls and artistic residencies.
 
 
-
-
-Considering a text to post in my blog (https://blog.lilothink.science/)
-Improve grammar, for clarity and engagement
-
-
-<div style="display: flex; justify-content: center;">
-<img src="https://live.staticflickr.com/65535/53820272317_6d01b2994b_z.jpg" width="480" height="640" alt="IMG_7082.jpg" class="" />
-
-<img src="https://live.staticflickr.com/65535/53820272422_482dd56a77_z.jpg" width="480" height="640" alt="IMG_7083.jpg"/>
-</div>
 

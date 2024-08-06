@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Paper Memories
+title: Paper Memories | VIDEOMAPPING + HANDCRAFT
 id: 2020-06-20-paper-memories.md
 categories:
   - prototype
   - urban art
-  - documentation
+  - image
 image: https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDRxOWszMG05aWg2ZDg2aDMzOWdycTJ6Z2d5OWoxdmdvaWdrcWU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QAdCDTk1fnbH2YQVDU/giphy.gif
 share: "true"
 comments: "true"
@@ -14,12 +14,14 @@ tags:
   - videomapping
   - co-creation
   - project/idea
+  - open-call
 date: 2020-06-20
 author: lina
 ---
-## Paper Memories | **VIDEOMAPPING + HANDCRAFT**
 
 This prototype was a partnership with [Mari Nagem](https://marinagem.com/) 🫀
+
+## The Concept
 
 Paper Memories goes from the architectural process, passing through an archiving and writing practice until the digital ways of creating poetry. It keeps memory alive with a video mapping craft experience.
 

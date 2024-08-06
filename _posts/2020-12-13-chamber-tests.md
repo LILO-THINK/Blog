@@ -1,17 +1,36 @@
 ---
 layout: post
-title: "Chamber Tests"
-id: "2020-12-13-chamber-tests.md"
+title: Chamber Tests - Who loves generative projection on smoke and mirrors?
+id: 2020-12-13-chambers-tests
 categories:
-  - "lights, videomapping"
-image: "https://media.giphy.com/media/aKEx97IBn1pV1oSm4b/giphy.gif"
+  - documentation
+  - science
+  - light
+image: https://media.giphy.com/media/Zqkmt7YHvAJFpVTis7/giphy.gif
 share: "true"
 comments: "true"
-filename: Blog/_posts/2020-12-13-chamber-tests.md
-tags: 
-date: "13/12/2020"
-author: lina
+filename: Blog/_posts/2020-12-13-chamber-tests
+tags:
+  - open-call
+  - physics
+date: 2020-12-13
 ---
 
-Who loves generative projection on smoke and mirrors? First we tried steam like our surface to project on. But our system was so small. Thank gosh we have a theater smoke machine to try things more immersive. (No neighbors didn't worry thinking  LILO was on fire ufa). I'm with this idea, if it's possible to do an immersive cloud chamber (a particle detector used to visualizing the passage of ions).
-https://media.giphy.com/media/rjcb4zHhbW8F6rnNmo/giphy.gif , https://media.giphy.com/media/VVPLfUdhxZ5zMXo2w7/giphy.gif , https://media.giphy.com/media/usBe6Os1UVAs50V3ok/giphy.gif , https://media.giphy.com/media/gqXRPFATqIzVeNNU6w/giphy.gif , https://media.giphy.com/media/Zqkmt7YHvAJFpVTis7/giphy.gif
+
+We initially experimented with steam as our projection surface for this prototype. However, due to our system's small scale, we found using a theater smoke machine more effective to create a more immersive environment.
+
+<img src="https://media.giphy.com/media/VVPLfUdhxZ5zMXo2w7/giphy.gif" class="justify-content-between" alt="1" >
+<img src="https://media.giphy.com/media/usBe6Os1UVAs50V3ok/giphy.gif" class="justify-content-between" alt="2" >
+
+This idea was heavily embraced by our former partner, Luis Leão, known for being my partner in visual experimentation with videomapping and lights.
+
+We got inspired to explore the possibility of creating an immersive cloud chamber (a particle detector used to visualize the passage of ions).
+
+<img src="https://media.giphy.com/media/gqXRPFATqIzVeNNU6w/giphy.gif" class="justify-content-between" alt="3" >
+<img src="https://media.giphy.com/media/Zqkmt7YHvAJFpVTis7/giphy.gif" class="justify-content-between" alt="4" >
+
+This technique, combined with generative projection on smoke and mirrors, allowed us to create a truly unique and engaging visual experience.
+
+
+<img src="https://media.giphy.com/media/aKEx97IBn1pV1oSm4b/giphy.gif" class="justify-content-between" alt="5" >
+<img src="https://media.giphy.com/media/rjcb4zHhbW8F6rnNmo/giphy.gif" class="justify-content-between" alt="6" >

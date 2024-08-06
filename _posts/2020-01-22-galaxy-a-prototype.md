@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Galaxy, a prototype
+title: Galaxy, an installation of dynamic lights that intends to present the immersive universe of microbiology
 id: 2020-01-22-galaxy-a-prototype.md
 categories:
   - speculation
@@ -21,7 +21,7 @@ tags:
 date: 2020-01-22
 author: lina
 ---
-## Galaxy, a micro-universe in expansion, is an installation of dynamic lights that intends to present the immersive universe of microbiology
+
 
 This prototype was a partnership with Guilherme Bullejos 🫀
 
@@ -36,7 +36,7 @@ The evolving theory points to the primordial soup which had given origin to a ni
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FlZmN4NzRhMXFmOTlvc2xuNHdzOW43ZWpqMnluYXdwOXRsNXU2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/53qA1v1p2BMNy3UfFy/giphy.gif" width="480" height="640" alt="IMG_7083.jpg"/>
 </div>
-#### Public Experience
+### Public Experience
 
 **In this entertaining installation, the visitors are involved by the effect of lighting changing the space's perception.**
 
@@ -44,20 +44,20 @@ The visitors are invited to immerse in this space and experience the dynamicity 
 
 The spectacle of the moving lights around the whole installation brings to the visitors’ reflections about the processes that allowed all beings to be alive and evolve.
 
-#### Schedule
-##### **PROTOTYPE 1:2**
+### Schedule
+#### **PROTOTYPE 1:2**
 A metal structure with DMX protocol
 MAY 2020
 
 The second prototype in the 1: 2 scale will be responsible for directing many important decisions. First, regarding the light source and communication protocol. The prototype will be made with 18 CAN64 DMX RGBW reflectors, but we are studying the possibility of making our own reflectors to have control of consumption / power and lenses to direct the objective of the effect we intend to achieve. Another point is the structure, we like the idea of working with treated metal and in general, in Brazil, we use a lot of material for reusing event scenography. The idea is to reuse metals from previous installations. About what we are called a filter, which will help in the effects, we are thinking about using recycled plastic. Thus, we were able to create a moisture resistant module.
 
-###### FINAL PIECE PRODUCTION
+#### FINAL PIECE PRODUCTION
 China
 AGO 2020
 
 There is a possibility to produce the electronic part of the final part with our suppliers in China. Case that needs to be studied even during the tests of the 1: 2 prototype. The production of the filter made from recycled plastic will be done in Brazil, but the metal structure can be made locally.
 
-###### PRESENTATION
+#### PRESENTATION
 Maybe at some Light Festival...
 NOV 2020
 

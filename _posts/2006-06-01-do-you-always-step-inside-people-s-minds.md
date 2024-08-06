@@ -17,7 +17,7 @@ tags:
 date: 2006-06-01
 author: lina
 ---
-## Do You Always Step Inside People's Minds?
+
 That was the name of my photographic final project in my first year of Cinema School.
 
 I am going through my old college files from around 2006, when I was about 20 years old. At that time, I was heavily influenced by David Hockney and his work. Hockney, known for his [collage photography](https://www.hockney.com/works/photos/photographic-collages), inspired me to undertake an analog black and white photography project. For this project, I took multiple photos of the same action. Perhaps it was my background in film studies or my interest in narrative that led me to this idea. I invited two friends to sit at a table while I planned to cut a piece of raw meat. The concept was for them to offer the raw meat to one of them, who would then cut it with a knife and fork, pretending to eat it. Meanwhile, the conversation and interaction would continue as if it was part of a narrative. I aimed to capture each segment of this action in a series of photos, creating a story-like sequence.

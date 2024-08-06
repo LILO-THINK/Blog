@@ -15,7 +15,7 @@ tags:
 date: 2006-07-12
 author: lina
 ---
-## Cinema Woman
+
 
 I am looking at analog photographs I took with 35mm film in 2006, during my film studies. These artistic photographs evoke a cinematic imagination of women in film. My generation often associates cinema with adventure, action, and culture, particularly imagining European cinema as atmospheric and pictorial. Interestingly, these textures and the analog film give a French or British composition feel. Reflecting on Lina from the past, who took these photos in 2006, I find it notable that she don’t sexualize the female body. Instead, they pay homage to cinematic language. It’s about understanding and respecting this aesthetic tradition.
 

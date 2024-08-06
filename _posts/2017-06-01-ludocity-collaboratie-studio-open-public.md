@@ -18,7 +18,6 @@ tags:
 date: 2017-06-01
 author: lina
 ---
-## LudoCity - A Collaborative Studio Open to the Public
 
 This project was delivered with the partnership of Amanda Almeida, Giovanna Casimiro, Washie Pichinin, Anielle Guedes, Fernanda Tosta e Garoa Hacker Clube 🫀
 
