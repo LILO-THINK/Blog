@@ -18,7 +18,7 @@ tags:
 date: 2024-08-01
 author: lina
 ---
-teste
+
 ## Sonic Pi: An Introduction
 
 Sonic Pi is an open-source programming environment designed for creating live music performances. Developed by Dr. Sam Aaron at the University of Cambridge Computer Laboratory, it has been in the market since 2014. Sonic Pi is built on top of SuperCollider, a platform for audio synthesis and algorithmic composition. The main goal of Sonic Pi is to introduce coding to a broader audience, particularly children, by making programming engaging and accessible through music.
