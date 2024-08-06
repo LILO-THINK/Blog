@@ -23,7 +23,7 @@ author: lina
 
 Since the age of nine, theatre has been my greatest passion—a love at first sight. The stage, the live performance, the immediacy of it all captivated me deeply. Many people may not know this, but my fascination with theatre led me to explore various intersections between performance and technology.
 
-In 2012, while working with the collective DMV22 on technical direction, I tried to integrate my passions into one cohesive practice. During this period, I encountered the incredible live illustration work of artist Achiles Luciano, who used a tool called Tagtool.
+In 2012, while working with the collective DMV22 on technical direction, I tried to integrate my passions into one cohesive practice. During this period, I encountered the incredible live illustration work of artist [Achiles Luciano](https://www.achilesluciano.com/grafite-digital-ou-tagtool?lang=en), who used a tool called Tagtool.
 
 My first brush with Tagtool was in 2010, but it was in 2012 that I began working with it regularly. Initially, Tagtool was a DIY hardware device requiring assembly. One had to procure potentiometers, connect them to an Arduino, and use a digital drawing tablet to create animations in real-time. This tool transformed simple illustrations into dynamic, stage-ready projections, adding a special dimension to live performances.
 
