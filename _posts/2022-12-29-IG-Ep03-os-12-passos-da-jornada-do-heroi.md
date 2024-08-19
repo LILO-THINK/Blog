@@ -44,5 +44,8 @@ Neste episódio, mergulhamos na estrutura da Jornada do Herói e como ela pode s
 1. **Joseph Campbell** - Referência à obra de Joseph Campbell sobre a Jornada do Herói.
 2. **Christopher Vogler** - Discussão sobre a adaptação de Vogler da Jornada do Herói.
 3. **"O Herói de Mil Faces"** - Livro de Joseph Campbell que detalha a estrutura da Jornada do Herói.
-4. **Cultura Maker** - Referências a conceitos e práticas da cultura maker e sua aplicação na educação.
-5. **Narratologia** - Conceitos e teorias sobre a narratologia utilizados para estruturar a história de Gepeto.
+4. "O método Bullet Journal" - Livro de Ryder Carroll sobre journaling.
+5. Coraline - Animação stop-motion de 2009.
+6. **[Cozinha Nômade](https://www.instagram.com/acozinhanomade/)** - Projeto da Artista Daniela Kohn
+7. **Canal Narratologia** - Conceitos e teorias sobre a narratologia utilizados para estruturar a história de Gepeto.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jbTtdyoauQo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

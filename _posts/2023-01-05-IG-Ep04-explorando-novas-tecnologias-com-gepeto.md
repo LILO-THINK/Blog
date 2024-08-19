@@ -43,5 +43,5 @@ Neste episódio, continuamos a desenvolver a história de Gepeto, enfrentamos de
 1. **Joseph Campbell** - Referência contínua ao conceito da Jornada do Herói.
 2. **Christopher Vogler** - Discussão sobre a adaptação de Vogler da Jornada do Herói.
 3. **Design Thinking** - Aplicação de princípios de design thinking no desenvolvimento do livro.
-4. **Tecnologias Educacionais** - Exploração de tecnologias educacionais emergentes.
-5. **Feedback de Colaboradores** - Importância do feedback e da colaboração contínua no projeto.
+4. **Ana Mohallem** - Artista.
+5. Livro "**Monstro das Cores**" de Anna Llenas - "Este livro sensível... incentiva os jovens a se abrirem e discutirem como se sentem, mesmo quando seus pensamentos são confusos."

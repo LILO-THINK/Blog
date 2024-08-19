@@ -26,6 +26,7 @@ Neste episódio, mergulhamos na história do personagem Gepeto e **exploramos co
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5JhBWsCKt35JLgyUmU6Sfy?si=vVNpnFOgSoCUvwH1lhlbaQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+Em nosso segundo encontro focamos em desenvolver um pouco mais da caraterística de nosso personagem principal. E para deixar o processo mais interessante, usamos do #chatGPT como ferramenta de reflexão. Me atrevo a dizer que não é um livro escrito a 6 mãos, mas talvez à 8 (seja lá o número de mãos que um sistema de AI possa ter rs).
 
 ### Resumo dos Blocos
 - 00:00 - **Introdução e Preparativos**
@@ -83,3 +84,7 @@ Neste episódio, mergulhamos na história do personagem Gepeto e **exploramos co
 - **Design Thinking**
     - Aplicação de conceitos de design thinking no processo criativo.
     - [What is Design Thinking? - updated 2024 - IxDF](https://www.interaction-design.org/literature/topics/design-thinking)
+- [Lero-lero da Lina](https://lerolero.linalopes.info/) 
+- [Gustavo Saulle e Xarabembas](https://www.instagram.com/estudios_xarabemba/)
+- [O Menino que Descobriu o Vento](https://www.imdb.com/title/tt7533152)
+- [Stranger Things](https://pt.wikipedia.org/wiki/Stranger_Things)

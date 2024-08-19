@@ -45,7 +45,8 @@ Neste episódio, refletimos sobre as conversas e desafios enfrentados no desenvo
     - Encerramento do episódio com um resumo das discussões e os próximos passos para o projeto.
 ### Referências Usadas no Episódio
 - **Joseph Campbell** - Referência à estrutura da Jornada do Herói.
-- **Design Thinking** - Aplicação de princípios de design thinking no projeto.
-- **Cultura Maker** - Exploração e integração da cultura maker.
-- **Tecnologias Educacionais** - Discussão sobre o uso de tecnologias educacionais no desenvolvimento do livro.
-- **Ferramentas Criativas** - Utilização de diversas ferramentas para a criação de conteúdo.
+- [Thinkering Studio](https://tinkeringtogether.org/)
+- Livro **"O poder inovador da diversão"** de Steven Johnson.
+- **A Misteriosa Sociedade Benedict**, série de televisão norte-americana baseada nos livros infantis de Trenton Lee Stewart.
+- **As aventuras de Gortimer Gibbon na Rua Normal** - série televisiva em que Gortimer e seus melhores amigos, Mel e Ranger, exploram seu bairro suburbano comum apenas para descobrir que ele está cercado por algumas forças mágicas.
+- **Uma Pitada de Magia** - série televisiva. Kelly Quinn e suas duas melhores amigas, Darbie e Hannah, encontram o livro de receitas da avó de Kelly no sótão e descobrem algumas receitas estranhas. Logo elas começam a perceber que têm um livro de receitas cheio de receitas mágicas.
