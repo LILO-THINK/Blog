@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Engineering of Error
+title: The Engineering of Error - or what I learned with Charles Watson
 id: 2024-08-19-the-engineering-of-error.md
 categories:
   - speculation
@@ -14,7 +14,8 @@ tags:
 date: 2024-08-19
 author: lina
 ---
-## The Engineering of Error - or what I learned with Charles Watson
+
+## What is The Engineering of Error?
 
 I recently watched some online lectures by [Charles Watson](https://charleswatsonprojects.eadbox.com/), whom Victor Pontes had always urged me to check out. Victor suggested Watson because he approaches creativity from a very practical perspective, often demystifying the concept. It's interesting because most people tend to think of creativity as either artistic expression or a search for something. However, Watson also celebrates creativity as a form of work. Out of all the lectures I watched, one that particularly caught my attention was titled "The Engineering of Error."
 
@@ -26,6 +27,8 @@ This idea of a "crack" intrigued me, some idea of disruption maybe... The second
 
 What struck me is how Watson begins with a song about imperfection and ends with a discussion on restriction?  **It made me curious about the true meaning of "the engineering of error", what the stages of such a process might be?**
 
+## From Mistakes to Events: Miles Davis and the Art of Improvisation
+
 Watson also introduced an interesting concept with his story about Miles Davis. In the story, one of Davis's musicians plays a note that was, let's say, a mistake — something unplanned. However, Davis continued improvising on that note, making it work in the context of the performance. 
 
 **Instead of calling it a mistake or a failure, he refered to it as an "event."** This shifts the perspective from seeing it as an error to viewing it as an event, perhaps even as a form of chance or serendipity. But I don't think this fully captures what Watson means by "the engineering of error," so **I found myself questioning what an error truly is?**
@@ -34,7 +37,9 @@ An error, after all, is often defined as a deviation from what is correct, expec
 
 I began to think about measurement tools, especially in physics, where there's often a defined margin of error in the experiments. For instance, anyone who has had to cut wood and adjust their technique along the way knows that the measurements don’t always turn out exactly the same, because each measuring tool has its own precision of error.
 
-I also recalled a computer engineering class where the professor used a target to explain a concept. The first dart might hit the center of the target, while the second goes outside, and the third lands somewhere on one of the rings. In a second attempt, all the darts might land in roughly the same spot, but not exactly at the center. 
+## Precision vs. Accuracy: The Lessons of the Dartboard
+
+Reflecting on my experiences, I recalled a lesson from a computer engineering class where a dartboard was used to illustrate precision and accuracy. The first dart might hit the center of the target, while the second goes outside, and the third lands somewhere on one of the rings. In a second attempt, all the darts might land in roughly the same spot, but not exactly at the center. 
 
 <img src="https://live.staticflickr.com/65535/53933330341_40e140fc70_z.jpg" />
 
@@ -58,6 +63,8 @@ Watson hints at this idea of empirical mathematics by bringing up examples like 
 Here you have a company, and a figure closely tied to it — Elon Musk— narrating the story of these 20 failed attempts to reach their objective. There’s an intention, and they failed in that intention, which could be considered an error, a deviation from the goal. 
 
 Then there’s the element of risk; you think, "Wow, 20 failed attempts—what makes us think the 21st will succeed?" Watson mentions something about creativity being a significant interplay between the familiar and the unknown. That’s the space where you operate.
+
+## Embracing Restriction: The Boundary Between the Known and the Unknown
 
 It made me question whether there’s a method to error in this context. Is there an engineering, a design process, for error? If we think of it this way, what does "The Engineering of Error" imply? I**f error is a deviation, then is engineering a process to help you when you deviate, or perhaps even to help you deviate intentionally?** It’s fascinating to think about whether there’s a structured method or design to managing errors, especially in creative or innovative endeavors.
 
