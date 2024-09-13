@@ -11,6 +11,7 @@ comments: "true"
 filename: Blog/_posts/2024-08-19-the-engineering-of-error.md
 tags:
   - mathematics
+  - methodology
 date: 2024-08-19
 author: lina
 ---
