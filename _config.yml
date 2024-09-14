@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-name: 'Blog LILO.THINK'
-title: BLOG - LILO.THINK
+name: 'Blog Lina Lopes'
+title: BLOG - Lina Lopes
 email: lilothink.science@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this

@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="container">
-<h3 class="font-weight-bold spanborder"><span>{{page.title}}</span></h3>
+<h3 class="spanborder"><span>{{page.title}}</span></h3>
 <div class="row">
     <div class="col-md-8">
     {% if page.image %} 
@@ -13,7 +13,7 @@ layout: default
 
         <!-- Add list posts -->
         <div class="main-loop">
-            <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
+            <h4 class="spanborder"><span>All Stories</span></h4>
             {% assign search_tag = page.searchTag %}
             {% for post in site.tags[search_tag] %}
                 {% include main-loop-card.html %}

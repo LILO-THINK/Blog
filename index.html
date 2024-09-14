@@ -24,7 +24,7 @@ description: "Some bits of the day by day"
     <div class="topfirstimage" style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} {{site.baseurl}}/{{ latest_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
     </a>
     <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
-    <h2 class="h4 font-weight-bold">
+    <h2 class="h4">
     <a class="text-dark" href="{{site.baseurl}}{{latest_post.url}}">{{ latest_post.title }}</a>
     </h2>
     <p class="excerpt">
@@ -59,7 +59,7 @@ description: "Some bits of the day by day"
                 </div>
                 {% endif %}                
                 <div>
-                    <h2 class="mb-2 h6 font-weight-bold">
+                    <h2 class="mb-2 h6">
                     <a class="text-dark" href="{{site.baseurl}}{{second_post.url}}">{{ second_post.title }}</a>
                     </h2>
                     <small class="d-block text-muted">
@@ -86,7 +86,7 @@ description: "Some bits of the day by day"
                 </div>
                 {% endif %}                
                 <div>
-                    <h2 class="mb-2 h6 font-weight-bold">
+                    <h2 class="mb-2 h6">
                     <a class="text-dark" href="{{site.baseurl}}{{third_post.url}}">{{ third_post.title }}</a>
                     </h2>
                     <small class="d-block text-muted">
@@ -113,7 +113,7 @@ description: "Some bits of the day by day"
                 </div>
                 {% endif %}                
                 <div>
-                    <h2 class="mb-2 h6 font-weight-bold">
+                    <h2 class="mb-2 h6">
                     <a class="text-dark" href="{{site.baseurl}}{{fourth_post.url}}">{{ fourth_post.title }}</a>
                     </h2>
                     <small class="d-block text-muted">
@@ -167,7 +167,7 @@ description: "Some bits of the day by day"
    
     <div class="col-md-8 main-loop">
         
-        <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
+        <h4 class="spanborder"><span>All Stories</span></h4>
         
 
         {% for post in paginator.posts %}

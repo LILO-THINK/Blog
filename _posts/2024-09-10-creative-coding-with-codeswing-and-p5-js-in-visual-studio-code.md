@@ -65,6 +65,7 @@ function draw() {
 ```
 This sketch will now render directly inside the CodeSwing preview pane, allowing for real-time updates as you code, without needing to switch between windows or set up any servers.
 
+<img src="https://live.staticflickr.com/65535/53991623211_9e3414a98f_h.jpg" >
 ### Why CodeSwing?
 
 CodeSwing offers the best of both worlds: the flexibility of working locally with a robust IDE like Visual Studio Code and the ease of real-time feedback typical of online editors like p5.js or CodePen. You can install it on your local machine, keep everything in a single workspace, and avoid the friction of constantly switching between the editor, browser, and terminal. This streamlined workflow is especially useful for teaching environments or quick demos where simplicity and speed are key.
