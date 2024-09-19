@@ -1,18 +1,18 @@
 ---
 layout: post
 title: Co-Creating with Machines - An Exploration of Generative AI
-id: 2024-07-02-co-creating-with-machines-an-exploration-of-generative-ai.md
+id: 2024-09-02-co-creating-with-machines-an-exploration-of-generative-ai.md
 categories:
   - speculation
   - AI projects
 image: https://live.staticflickr.com/65535/54005876461_326728bdb1_h.jpg
 share: "true"
 comments: "true"
-filename: Blog/_posts/2024-07-02-co-creating-with-machines-an-exploration-of-generative-ai.md
+filename: Blog/_posts/2024-09-02-co-creating-with-machines-an-exploration-of-generative-ai.md
 tags:
   - "#machine-learning"
   - "#ai"
-date: 2024-07-02
+date: 2024-09-02
 author: lina
 ---
 ## Co-Creating with Machines - An Exploration of Generative AI
@@ -51,4 +51,4 @@ Much like I’ve experimented with my "four mastermind minds" prompt, where AI-g
 
 Ultimately, I don’t see generative AI as just another **assistant**; I think there’s room for it to become a **second brain**, deeply integrated into the creative process. It could help organize and enhance our thinking, not just act on orders. While I’m still exploring what this would look like in a real-world setting, it’s a future I’m excited to experiment with. I’m not sure yet which of my partners might be interested in such a project, but I believe this is a space worth diving into.
 
-<img src="https://live.staticflickr.com/65535/54005876461_326728bdb1_h.jpg" width="1600" height="914" alt="DALL·E 2024-09-19 10.28.07 - A minimalist black and white scene illustrating a voice assistant in a co-creation process. The setting features a digital assistant subtly present in"/>
+<img src="https://live.staticflickr.com/65535/54005876461_326728bdb1_h.jpg" alt="DALL·E 2024-09-19 10.28.07 - A minimalist black and white scene illustrating a voice assistant in a co-creation process. The setting features a digital assistant subtly present in"/>
