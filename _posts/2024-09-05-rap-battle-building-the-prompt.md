@@ -6,7 +6,7 @@ categories:
   - documentation
   - digital tools
   - AI projects
-image: assets/images/gepeto.png
+image: https://live.staticflickr.com/65535/54015126372_8e11389d2c_o.jpg
 share: "true"
 comments: "true"
 filename: Blog/_posts/2024-09-05-rap-battle-building-the-prompt.md
@@ -20,7 +20,6 @@ author: lina
 # RapBattle.js
 
 Check on [Rap Battle Between Authors](https://cas-m1-authors-lina-lopes-projects.vercel.app/)
-
 
 ```javascript
 // Function to load the CSV file and populate the dropdowns
