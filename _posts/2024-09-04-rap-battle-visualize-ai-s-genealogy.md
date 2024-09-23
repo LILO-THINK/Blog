@@ -17,11 +17,11 @@ tags:
 date: 2024-09-04
 author: lina
 ---
-# Rap Battle - Visualize AI’s Genealogy
+
 
 <img src="https://live.staticflickr.com/65535/54016173323_be53a1d1e6_o.png" width="100%"  alt="Screenshot 2024-09-23 at 16.43.34"/>
 
-Check in [Rap Battle Between Authors](https://cas-m1-authors-lina-lopes-projects.vercel.app/)
+Check on [Rap Battle Between Authors](https://cas-m1-authors-lina-lopes-projects.vercel.app/)
 
 ## DataViz.js
 
