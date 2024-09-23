@@ -17,7 +17,7 @@ date: 2024-09-05
 author: lina
 ---
 
-# RapBattle.js
+## RapBattle.js
 
 Check on [Rap Battle Between Authors](https://cas-m1-authors-lina-lopes-projects.vercel.app/)
 

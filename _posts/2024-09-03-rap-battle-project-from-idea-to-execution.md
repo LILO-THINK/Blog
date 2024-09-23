@@ -13,10 +13,11 @@ filename: Blog/_posts/2024-09-03-rap-battle-project-from-idea-to-execution.md
 tags:
   - ai
   - machine-learning
+  - PKM
 date: 2024-09-03
 author: lina
 ---
-## Rap Battle Project - From Idea to Execution
+
 The idea for the Rap Battle Project was born during a unique educational experience—my specialization in **Machine Learning and AI for Creative Practices**, a partnership between the **School of Design and Arts of Zurich** and the **Institute of Mathematics at the University of Bern**. The program bridges creative practices with technical disciplines, with some modules led by professors from the arts and design fields, while others are led by mathematicians and data scientists. This interplay between conceptual and technical knowledge is where I find myself most inspired.
 
 The first module, led by **Professor Chris Salter**, was an immersive three-day exploration of the **genealogy and history of AI**. Salter, a professor with a background in both Canada and the United States, has been teaching in Europe for the past two years. His lectures were intense—three full days, from 9 a.m. to 5 p.m.—focusing on the origins of AI as a concept, the various philosophical approaches like **symbolic AI**, **connectionist AI** and **Enactive AI**, and how these ideas evolved over time.
@@ -51,4 +52,4 @@ By generating these mini-bios and associating them with the rap battle, I was ab
 
 And that’s where I’ll leave it for now. This is how a playful project like Rap Battle became a method for me to absorb, process, and apply the vast amount of information presented in class—and maybe even have a little fun with it.
 
-Check in [Rap Battle Between Authors](https://cas-m1-authors-lina-lopes-projects.vercel.app/)
+Check on [Rap Battle Between Authors](https://cas-m1-authors-lina-lopes-projects.vercel.app/)
