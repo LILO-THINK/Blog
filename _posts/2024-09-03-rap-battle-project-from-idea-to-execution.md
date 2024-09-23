@@ -39,7 +39,7 @@ With the initial idea in mind, I jumped straight into prototyping. When I build 
 
 I created two dropdowns, one for **Author 1** and one for **Author 2**. Then I built a simple prompt: generate a rap battle between the two selected authors from the dropdown, pulling their names from the spreadsheet. I sent the prompt, received a response, and displayed it on the screen. The whole thing took about 20 minutes—quick and dirty. It wasn’t beautiful, responsive, or organized, but it was a start.
 
-<img src="https://live.staticflickr.com/65535/54015964768_15dcbd9e96_o.png" width="100%"alt="Screenshot 2024-09-23 at 15.21.41"/>
+<img src="https://live.staticflickr.com/65535/54015964768_15dcbd9e96_o.png" width="100%" alt="Screenshot 2024-09-23 at 15.21.41"/>
 
 Then I thought, “It would be great if I had mini-bios for these authors.” I was selecting names from a dropdown, but many of them didn’t stick in my memory. I’m not an expert on all 74 authors—Professor Salter is the one who really knows these people inside and out. But I needed a way to get a quick understanding of who they were. So I turned once again to **OpenAI** and built a Python script to generate mini-bios for each author.
 
