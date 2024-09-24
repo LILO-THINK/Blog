@@ -153,7 +153,14 @@ Py5 is designed to closely mirror the syntax of **Processing**, a flexible softw
 
 - The syntax promotes a **minimalist and expressive coding style**, allowing artists to focus on creativity rather than technical complexities.
 - Functions like `setup()`, `draw()`, and event handlers like `mouse_clicked()` provide a structured yet flexible framework for interactive art.
+
 ---
 ## Conclusion
 
 Use Python if you prefer working locally, value a simple and readable syntax, or if you intend to integrate your work with data science tools, machine learning, or mathematical environments. Python is great for generative art projects requiring heavy computation or AI integration. It's always good to expand your creative coding toolkit to include Python and Py5.
+
+If you're interested in expanding your creative coding skills with Python, I highly recommend Alexandre Villares course on Domestika:
+
+**[Designing with Python: Programming for a Visual Context](https://www.domestika.org/en/courses/4307-designing-with-python-programming-for-a-visual-context/course)**
+
+In this course, you'll learn how to create visual projects using Python, exploring techniques that combine programming and design to produce interactive and artistic works. It's a great opportunity to deepen your knowledge and discover new creative possibilities.
