@@ -161,6 +161,6 @@ Use Python if you prefer working locally, value a simple and readable syntax, or
 
 If you're interested in expanding your creative coding skills with Python, I highly recommend Alexandre Villares course on Domestika:
 
-**[Designing with Python: Programming for a Visual Context](https://www.domestika.org/en/courses/4307-designing-with-python-programming-for-a-visual-context/course)**
+**[Designing with Python: Programming for a Visual Context](https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-contexto-visual/a_b_a_villares)**
 
 In this course, you'll learn how to create visual projects using Python, exploring techniques that combine programming and design to produce interactive and artistic works. It's a great opportunity to deepen your knowledge and discover new creative possibilities.
