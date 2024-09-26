@@ -28,7 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.png'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.lilothink.science" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.linalopes.info" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  linalopes
 disqus: lilothink
 
