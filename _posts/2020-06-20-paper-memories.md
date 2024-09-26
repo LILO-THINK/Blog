@@ -63,6 +63,3 @@ Simultaneously acting as a creative consultant, researcher and projection produc
 Latest exhibitions in 2019 were Estratégias do Feminino (Porto Alegre, BR) and Parallelal Screens (San Diego / São Paulo / Weimar). In 2018 she was a resident at SomoS Arts House (Berlin) and in 2017 she was invited to exhibit at The Wrong Digital Art Biennale. In the earlier years, exhibit at MIS (Museum of Image and Sound of SP), was a resident at Casa das Caldeiras (São Paulo) and Vatelón (Uruguay). She has shown videos in Brazil, Greece, Switzerland, France, Germany, festivals like FILE, ARTEMOV, CINEOP, ATHENS VIDEO ART FESTIVAL, among others.
 
 
-
-Considering a text to post in my blog (https://blog.lilothink.science/)
-Improve grammar, for clarity and engagement
